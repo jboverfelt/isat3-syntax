@@ -4,7 +4,7 @@
 " Latest Revision November 2014
 
 if exists("b:current_syntax")
-				finish
+	finish
 endif
 
 syntax case ignore
